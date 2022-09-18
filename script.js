@@ -1,5 +1,6 @@
 let m = 15;
 let n = 5;
+// if !isNaN(n)
 if (n === 0) {
   /* todo*/
 } else if (m === 0) {
